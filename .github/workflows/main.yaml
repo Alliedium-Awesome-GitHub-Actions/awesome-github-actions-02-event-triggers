@@ -20,4 +20,5 @@ jobs:
       - name: Event
         run: echo "Triggered by $GITHUB_EVENT_NAME"
       - name: Say Hello
-        run: echo "Hello developer!"
+        run: echo "Hello foo/bar developer!"
+
